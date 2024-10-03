@@ -1,5 +1,5 @@
 # ajs_Test
-
+[![Build status](https://ci.appveyor.com/api/projects/status/wx4a7olsmd3fm95n?svg=true)](https://ci.appveyor.com/project/FerzGT/ajs-test)
 Домашнее задание к занятию "4.Организация тестирования"
 
 Правила сдачи задания:
